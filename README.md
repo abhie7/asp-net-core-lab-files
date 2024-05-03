@@ -1,2 +1,4 @@
-# asp-net-core-lab-files
-Asp .Net Core Lab Files - Abhiraj Chaudhuri
+# Asp .Net Core Lab Files 
+
+- CMP405 - .NET Technologies
+- Abhiraj Chaudhuri

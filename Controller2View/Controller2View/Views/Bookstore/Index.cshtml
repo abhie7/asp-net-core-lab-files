@@ -1,0 +1,17 @@
+﻿@*
+*@
+@{
+    @ViewData["name"];
+    <br />
+    @ViewData["author"];
+    <br />
+    @ViewData["price"];
+    <br />
+
+    @foreach (var item in (string[])ViewData["bname"])
+    {
+        <h1>@item</h1>
+    }
+
+}
+
